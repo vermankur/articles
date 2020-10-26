@@ -1,0 +1,486 @@
+The erstwhile state of Jammu and Kashmir, now the union territory of J&K,
+attained 100% open defecation free status in September 2018, well before the
+Swachh Bharat Mission (Grameen) deadline of 2 October 2019. However, the
+movement of women in flocks to fields as it gets dark portrays quite a
+different picture. Do the so-called individual household latrines exist only on
+paper, while being incomplete and non-functional in reality? Are these not
+being used due to cultural barriers and socialisation? What policy steps are
+needed to effect change in rural sanitation behaviour? To answer these
+questions and suggest a way forward, a micro-study was carried out in Bishnah
+block of Jammu district.
+
+Coffey and Spears (2018) observed that although rural life is changing quickly,
+the census and other data sources suggest that latrine adoption is lagging in
+India. To substantiate their findings, they cite the World Health Organization
+and the United Nations Children’s Fund Joint Monitoring Report (2017),
+according to which more than half the households that practise open defecation
+globally reside in rural India. They further state that, according to the 2011
+Census, 90% of the Indian households that lack a toilet or latrine are located
+in rural India. They analyse data from the National Family Health Survey
+(NFHS-4) to further support their position.
+
+Refuting the basis as well as the findings of Coffey and Spears (2018), Yougal
+Joshi (2018) observed that under the Swachh Bharat Mission (SBM),^1 rural
+sanitation coverage increased from 39% in October 2014 to 50% in October 2016,
+63% in October 2017, and over 85% June 2018. This means that rural sanitation
+coverage more than doubled since the programme began in 2014. The fact is that
+rural sanitation in the country has indeed made signiﬁcant progress in the last
+few years. Joshi (2018) further observed that the NFHS-4, on which Coffey and
+Spears’ (2018) findings were based, was undertaken over a period of 24 months,
+between January 2015 and December 2016. It showed that rural sanitation
+coverage increased from 40% to 58% between 2015 and 2016, respectively. Joshi
+argued that such a long survey period in a fast-moving programme makes the
+ﬁndings of the survey unrepresentative, inconclusive, and a gross
+underestimation of the present reality. To conclude his point, he stated that
+over 7.6 crore toilets had been built across villages in India, accompanied by
+a strong focus on changing sanitation behaviours. As a result, nearly four lakh
+villages, 400 districts, and 17 states and union territories in the country
+were declared open defecation free (ODF) ODF as of July 2018. In mid-2018, when
+Joshi’s article was published, it appeared that rural India was well on its way
+to becoming free from open defecation before the proposed deadline of 2 October
+2019, the 150th birth anniversary of M K Gandhi (Joshi 2018).
+
+From the foregoing discussion, one can see the emergence of two contradicting
+narratives. On 2 October 2019, all the villages in the 36 states and union
+territories of India were declared ODF. The India map on the SBM (Grameen)
+website, which recorded pro­gress towards the 100% ODF goal, turned entirely
+green, indicating that the policy’s ambitious goal had been achieved. However,
+a survey released by the National Statistical Office (NSO) in November 2019
+claimed that about 28.7% of rural households across India still lacked access
+to any form of latrines. Moreover, it stated that 3.5% of those who have access
+to latrines do not use it (Hindu 2020). The SBM data and the NSO data
+contradict each other; this may be because the SBM data does not account for
+behavioural changes, which are extre­mely hard to achieve. This raises the
+following questions: Has the scheme also set in motion behavioural changes
+regarding sanitation practices and beliefs and myths around toilet usage in
+proportion to the provision of individual household latrines (IHHLs)? Is this
+even remotely possible?
+
+On 15 September 2018, the then governor of Jammu and Kashmir (J&K), Satya Pal
+Malik, while launching a fortnight-long cleanliness campaign called “Swachhta
+Hi Seva,” declared J&K 100% ODF. “All the 22 districts, 4,171 gram panchayats
+and 7,565 villages in the state are self-declared ODF as per Swachh Bharat
+Mission (Grameen) (SBM-G) guidelines,” he stated (DNA 2018). He further
+observed that apart from constructing 1.1 million IHHLs and 1,350 community
+sanitary complexes (CSM) in the state, the Swachh Bharat Abhiyan had played a
+vital role in bringing about behavioural changes in people. The declaration was
+made on the basis of information furnished to him by the authorities concerned.
+The leading local daily of the state, Daily Excelsior (2018a), observed,
+
+    However, complete ignorance of several vital aspects by the authorities
+    concerned has belied the claims of the Government about achieving ODF
+    status for the State, sources said, adding “slum dwellers in different
+    parts of the State have not been covered under the Swachh Bharat Mission
+    and majority of them are still defecating in open right under the nose of
+    the concerned authorities ... people defecating along the railway tracks
+    and in the fields in rural parts of the State is still a common scene and
+    this has also clearly established that J&K has achieved Open Defecation
+    Free status only on the papers.
+
+It further said,
+
+    During the drive under the Mission even nomadic population has not been
+    covered and majority of the nomads are still indulging in open defecation …
+    It seems that Government has declared J&K Open Defecation Free only by
+    constructing the number of Individual Household Toilets and Community
+    Sanitary Complexes projected at the launch of the Swachh Bharat Mission by
+    the Union Government instead of looking into all the aspects relating to
+    the menace.
+
+The study was carried out in Bishnah block of Jammu district using the
+non-participant observation method, a focused group discussion (FGD), and
+personal interviews. Bishnah block was purposively chosen as it is close to
+Jammu city, with some of its peripheral villages lying in the border belt. Five
+villages in Bishnah block (Deoli, Laswara, Makhanpur, Chak Tahir, and Salehar)
+along the Arnia–Salehar connecting route were selected for non-participant
+observation. Salehar, being the most populated among the studied villages, was
+chosen for an in-depth FGD. From each village, few groups of women walking to
+and from the fields were observed. The FGD included 15 women drawn from the
+different mohallas of the village. The conversations were carried out in Hindi
+as well as the local language, Dogri.
+
+Observations from the Field
+
+Located 26 km from Jammu city, Salehar village (Salaeher in the census) is
+situated in Bishnah block and tehsil. It has a total population of 4,941, with
+2,560 males and 2,381 females. The majority of the inhabitants are from the
+Scheduled Castes (SCs) (3,599 in total; 1,869 males and 1,730 females), while
+the Scheduled Tribes (STs) population is 105 (54 males and 51 females). There
+are 1,022 households in the village and the population density is eight persons
+per hectare (Office of the Registrar General and Census Commissioner, India).
+The village also hosts around 90 migrant labour families living in
+jhuggi-jhopri clusters—small, roughly built houses or shelters made of mud,
+wood or metal having thatch or tin sheet roof covering. They mostly work in the
+brick kilns and as construction and agriculture labourers.
+
+Open defecation continues to be practised both in rural and urban settings by
+men, women, and children, although it is less common in urban areas. In an open
+letter to the editor of Daily Excelsior, one Krishan Kant Sharma, resident of
+Channi Himmat Housing Colony, Jammu expressed,
+
+    Surprises (sic) to read the news. Is it April fool? Almost every day I see
+    small kids of migrant labourers, lined up along main roads of Channi Himmat
+    Colony in the morning easing themselves and their parents/brother-sisters
+    searching places in drains and across Narwal-Kunjwani Road in hundreds from
+    5 to 7 am daily. Whosoever has submitted the report is ignorant of ground
+    realities. He must visit Narwal-Kunjwani Road, Roopnagar Bantalab Road,
+    Ploura, Muthi Dumana Road, Patta-Sangrampur road between 5 to 7 am and see
+    thousands of migrants easing nearby roads. (Daily Excelsior 2018b)
+
+The above observation pertains specifically to Jammu city and its peripheral
+areas, but as one moves towards the linking roads leading to the rural
+hinterlands, similar scenes are a common sight. During the non-participant
+observation in the villages under study, women were seen going to and sitting
+in the fields during the wee hours and late evenings to answer nature’s call.
+One can spot men, women, and children defecating on both sides of the road
+after it gets dark. I observed the same scene village after village without
+exception.
+
+Historically, the rural sanitation programme in India began in 1954 as part of
+the First Five Year Plan (1951–56) of the Government of India. But owing to
+confusion and inconsistency with regard to the sanitation component, nothing
+substantial was achieved. In fact, the 1981 Census revealed that rural
+sanitation coverage was only 1%. The United Nations designated 1981–90 as the
+International Drinking Water Supply and Sanitation Decade to mobilise
+initiatives to improve clean water supply and sanitation worldwide. In
+response, the Government of India introduced the Central Rural Sanitation
+Programme (CRSP) in 1986 to improve the quality of life of rural people and
+provide privacy and dignity to women. Though improving rural sanitation and
+health continue to be a priority for the government after independence, the
+target is yet to be achieved as per the findings of the present study, which
+reflects the situation in rural settings in J&K at least.
+
+During the FGD in Salehar, the women said that most of them, as well as the
+other residents in their respective wards, defecated in the open, irrespective
+of the availability of IHHLs. One can gauge the depth of the issue from the
+fact that out of the 15 women who participated in the FGD, only one had an
+IHHL. Based on the insights provided by the participating women, village
+households can broadly be categorised as: (i) households without toilets; (ii)
+households with non-functional toilets; and (iii) households having functional
+toilets but restricted usage.
+
+Households without toilets include the village population without toilets as
+well as the migrant population in the village living in jhuggi-jhopris that are
+not equipped with toilets. Let us first address the issue of migrant labourers.
+Although female migrant labourers were not a part of the FGD, since the purpose
+of the study was to minutely understand the contradictions inherent in the
+larger picture of J&K being declared ODF at the village, block, district, and
+state level, it is appropriate to shed some light on the concerns of migrant
+labourers. To this end, sufficient information was shared by the participating
+women. In the revised guidelines for SBM-G released in October 2017, the word
+“migrant” figures just once, wherein motivators/swachhagrahis are encouraged to
+ensure that any new houses that come up post ODF achievement be constructed
+with IHHLs. They must also create provisions for visitors/migrants in the form
+of a community toilet or any other means. The term “community” in the term
+community sanitary complex (CSC) includes labourers (both permanent and
+temporary). According to the guidelines, CSCs could be used by the local
+administration to provide for those labourers who are ineligible for incentives
+under the SBM-G. As far as the village under study is concerned, no CSC has
+been constructed, which means that migrant labourers have been completely
+excluded from benefits, although sanitation is one of their basic human rights.
+One can safely assume from these facts that the migrant labourers residing
+within the village are openly defecating in fields, debunking the government’s
+myth of an ODF J&K right at the unit level.
+
+During the interaction, villagers reported that the selection criteria for
+receiving the SBM-G benefit were unclear. Under the programme, selected
+households were entitled to receive `12,000, which would cover IHHL
+construction costs and provide for water availability, including for storing
+for handwashing and toilet cleaning. Eligible households included all below
+poverty line (BPL) households; SC/ST above poverty line (APL) households; small
+and marginal farmers; landless labourers with homesteads; households headed by
+women and persons with physical disabilities. However, while executing the
+scheme, several other criteria were introduced, as revealed during the FGD. For
+example, households where any family member was engaged in government service
+were excluded.
+
+Some households had been provided with toilets in the 1980s, which, over time,
+had become dysfunctional. Some of the families had dismantled their
+dysfunctional toilets, while others had put them to various other uses like
+storing hay, fodder, cow-dung cakes, etc. These households were not provided
+toilets under SBM-G as per the respondents. The block development officer
+(BDO),^2 while detailing the reasons for the same, clarified that the SBM-G
+aimed at providing toilets to only those households that did not have toilets
+as per the baseline survey carried out in 2012–13. The Ministry of Drinking
+Water and Sanitation (nd) had developed an online monitoring system for SBM-G
+where household-level data with respect to sanitation facilities in all gram
+panchayats in the country were made available by state governments in the form
+of a baseline survey. The households that had benefited from earlier government
+schemes in the 1980s were not included in the baseline survey, making it
+utterly faulty to begin with. This disadvantaged a considerable number of
+households across the region.
+
+Sociologically, every family undergoes a cycle or a process of development,
+evolving from nuclear to joint to nuclear again depending upon the size of the
+joint household. The baseline survey conducted before the launch of the scheme
+was completely devoid of this basic understanding; hence, it turned out to be
+faulty and excluded a significant number of households from benefiting under
+the scheme. For example, one of the participants stated that her family had
+been provided a toilet 28–30 years ago under her father-in-law’s name, which
+had since become non-functional. But in the present scheme, neither her nor her
+brother-in-law’s household were given any benefit. In addition, some of the
+stakeholders from the village shared that nearly 248 households were to be
+provided toilets by 15 August 2018, but the deadline was missed. They were told
+that they will be given the benefit later. The BDO mentioned that the
+households that were left out will be identified and shall be covered under SBM
+Plus.
+
+Cultural Barriers
+
+Open defecation in India is robustly correlated with religion as originally
+explored by Geruso and Spears (2018) and is not driven by poverty—it is common
+even among households that own assets such as televisions and mobile phones
+(Coffey and Spears 2018). Geruso and Spears (2018) observed that despite
+relative economic advantage, India’s majo­rity Hindu population is 25
+percentage points more likely to defecate in the open—that is, in open places
+such as in fields, behind bushes, or near roads—than the minority Muslim
+population. Sanitation practices may have evolved differently across Muslim and
+Hindu communities for purely secular reasons and could have been optimal for
+private or social reasons given the context under which they arose. Specific
+religious instructions with respect to sanitation and hygiene that we observe
+today may have been established long ago—codifying then existent norms, rather
+than establishing those norms. While Geruso and Spears admit taking no position
+on whether religion causes open defecation per se, it is common for Indians to
+discuss waste disposal choices with reference to religious purity.
+
+Given that the region under study is dominantly Hindu, the findings of Geruso
+and Spears (2018) are relevant to the insights provided by a gram sevak or
+village development officer^3 I interviewed. The gram sevak revealed that it is
+difficult for people in rural settings to accept relieving themselves within
+their houses, which are closed spaces with the kitchen and place of worship in
+the same domain. According to her, people have internalised easing themselves
+in the open as being a natural process, and they are reluctant to perform the
+same act in a closet. The idea of pollution and purity, which originated
+primarily in Hinduism, deeply influences the continuation of this practice.
+Toilets and defecation (being unholy and mundane) are associated with pollution
+and polluting acts. On the other hand, food, the kitchen, and worship are
+considered sacred. The two opposing practices are to be separated and kept
+apart. The idea of bringing the two to the same level by performing them in the
+same space is considered unacceptable. The continued practice of open
+defecation despite the availability of toilets in certain households is thus
+inherent and embedded in religious ideas. Inhibitions regarding toilet use
+largely arise from habits and continuous socialisation across generations.
+
+A 14-year-old girl who accompanied her mother for the FGD described the ease of
+open defecation as “Achcha lagta hai bahar jana” (I like going out). One can
+easily infer the behavioural adaptations through the socialisation processes
+involved. This closely relates to the findings of Coffey et al (2014) regarding
+preferences for open defecation. Their study revealed that of the people who
+defecate in the open, 47% explained that they do so because it is pleasurable,
+comfortable, or convenient. They also said that defecating in the open provided
+them an opportunity to take a morning walk, see their fields, and take in the
+fresh air. Many people regarded open defecation as part of a wholesome,
+healthy, and virtuous life.
+
+Topography and Gender
+
+Other than religion and cultural practices, several other factors were found to
+be correlated with the practice of open defecation. Doron and Jeffrey (2014)
+identified 11 features that play a role in determining people’s acceptance of
+and access to controlled ways of dealing with human waste. These features are
+often interrelated and overlapping: (i) class, (ii) caste, (iii) sociability,
+(iv) urban life, (v) rural life, (vi) diversity, (vii) topo­graphy, (viii)
+technology, (ix) gender, (x) education, and (xi) crisis. The geo­graphy and
+topography of an area play an important role in the practice of open
+defecation. The extreme cold weather in hilly terrains such as in Kashmir and
+Ladakh (Ladakh was a part of the erstwhile state of J&K and has now been
+separated as the union territory [UT] of Ladakh) is partly responsible for
+people not opting for open defecation, whereas in the plains, it is a common
+practice. People in the plains prefer to use open fields for defecation, while
+in the Kandi^4 belt, people prefer using khads.^5
+
+Whatever the type of terrain, women and men find it difficult to access open
+spaces during the rainy season as well as when the crops are ready for harvest,
+although the crops give them privacy during the act. Hiding behind bushes or in
+pits and using fields with standing crops while defecating in the open allows
+people to defecate comfortably and helps maintain privacy, which is merely a
+mental construct as the privacy is not really achieved. It helps those using
+fields for open defecation avoid the awkwardness that could occur if seen by
+someone of the opposite sex. This might force the one defecating to abruptly
+get up in the middle of the act, which could be physically disrupting and
+uncomfortable. It is difficult for women to access open fields after the crops
+have been harvested as well as during the sowing season, as the presence of men
+in the fields increases manifold and most of them spend the entire day working
+in the fields.
+
+Vulnerability and Privacy
+
+When probed about the difficulties faced while defecating in the open, the
+women respondents stated that in some villages, there are separate areas for
+men and women to defecate. However, in most villages, there is no such
+demarcation. On seeing women head in a particular direction or sitting, men
+generally change their track and move away and vice versa. However, one of the
+respondents very angrily stated that there are some men who walk past
+deliberately in order to harass and intimidate women. Women feel vulnerable
+going to the fields alone, which is the reason they go in groups. During the
+FGD, Prakasho Rani expressed,
+
+    It’s not easy. During the act, we have to get up many a time on seeing the
+    men approach. They can come from any direction. Sometimes they change their
+    track or move past with their head down. We keep standing with our backs
+    turned. If we use roadside pavements at night, the lights of moving
+    vehicles disturb us. Sometimes, we get up and turn to the other side; at
+    other times, we keep sitting. If the vehicle or people come from the left,
+    we turn our face towards the right, and if they approach from the right, we
+    turn our face to the left but keep sitting.
+
+During the study, many women and children were seen sitting on the roadside
+after dark. Women also highlighted that while going to the fields, they have to
+pass several groups of men and young boys standing along the way. While elderly
+women are unbothered by this, young girls find it awkward. Questioning the
+men’s behaviour can lead to issues between families of different castes. If the
+boys are from a higher caste or are economically well-off, lower caste families
+avoid confronting them, lest it sour their relations further. The power
+relations built into caste hierarchies still control social relations in the
+village.
+
+Health Hazards
+
+Open defecation is a major health hazard and causes significant hardships,
+especi­ally to rural women (Dhaktode 2014). As a part of the socialisation
+process, women are trained to control their bowel movements and relieve
+themselves only in the early mornings or late evenings. This is a long-term
+health hazard. Controlling bowel movements for hours impacts women’s health
+directly. Defecating in the open impacts all, irrespective of age, gender, and
+class. The release of germs into the environment harms everyone in equal
+measure. The respondents had a limited understanding of the health hazards
+concerned as a result of their world view. For example, Savita Devi during the
+FGD remarked, “When you defecate in the open, the foul smell fades away in the
+open air, but if you use the toilet in the house, you are consuming the same
+foul smell, which may lead to several diseases.” From this, one can infer how
+they make sense of their own socialised behaviour.
+
+In Conclusion
+
+This microstudy undertaken in Salehar village in Bishnah block of Jammu
+district categorically points to the major lacunae in the execution of the
+SBM-G, which failed to meet its goal of attaining 100% ODF status for J&K. The
+baseline survey, which was the basis for identi­fying the beneficiaries of the
+SBM-G, excluded a considerable number of families. This suggests that
+policymakers must be more far-sighted and account for infrastructural wear and
+tear over time. If one family was provided a toilet in the 1980s, keeping the
+family’s development cycle in mind, there is every likelihood that that family
+grew into separate household units, which ideally should have been identified
+and given the benefit.
+
+The study also brings out that the mere provision of IHHLs does not ensure that
+it is being used, as was evident in the study area. While material changes are
+easy to make, non-material, subjective changes occur slowly, leading to a
+cultural lag. As far as sanitation and health are concerned, consistent
+community interventions over a long period of time are suggested as a way to
+help people get over their ingrained habit of open defecation, which has its
+foundations in the religious belief system. The urgent need for building CSCs
+in every village is reiterated to safeguard the rights of migrant labourers. A
+bottom-up approach by the government and interventions by social scientists
+while developing and executing schemes such as SBM-G are likely to give desired
+results.
+
+Notes
+
+1 Swachh Bharat Abhiyan (SBA) or Swachh Bharat Mission (SBM) is a nationwide
+campaign implemented in India in 2014–19. It aimed to clean up the streets,
+roads and infrastructure of India’s cities, smaller towns, and rural areas. The
+campaign’s official name is in Hindi and translates to Clean India Mission. The
+objectives of SBM include eliminating open defecation through the construction
+of household-owned and community-owned toilets and establishing an accountable
+mechanism of monitoring toilet use. Run by the Government of India, the mission
+aimed to achieve an ODF India by 2 October 2019, the 150th anniversary of the
+birth of M K Gandhi, by constructing 90 million toilets in rural India at a
+projected cost of `1.96 lakh crore ($30 billion) (Business Standard 2016). The
+mission also aimed to contribute to India reaching Sustainable Development Goal
+Number 6.
+
+2 Personal Interview on 22 September 2018.
+
+3 Personal Interview on 22 September 2018.
+
+4 The submontane tract in the outer Himalayas of the Jammu division of Jammu
+and Kashmir is locally termed the Kandi belt. This unit is an extension of the
+Kandi belt in the states of Himachal Pradesh, Punjab, Haryana, and Uttaranchal.
+The upper portion of the Kandi belt consists of low hills covered by shrubs and
+forest, and the lower terrain has cultivated lands and gully beds. It has an
+undulating topography—steep and irregular slopes, erodible and low water
+retentive soil, and badly dissected terrain by numerous gullies (National
+Institue of Hydrology 2010). The undulating slope, adjacent to the plains at an
+elevation of 300 m between the Ravi and Chenab rivers, is locally known as
+Kandi. The Kandi land is characterised by numerous torrents, hilly soil, and a
+scarcity of water. Consequently, agriculture in the Kandi tract is largely
+dependent on rainfall. There is immense soil erosion during the rainy season.
+Cultivation of maize, mil­lets, pulses, oilseeds, and fodder and rearing of
+cattle are the primary economic activities in the Kandi region (Your Article
+Library 2018).
+
+5 Situated in the vicinity of the Siwalik Hills, the outer plains of the Jammu
+division are traversed by numerous hill torrents, locally known as khad. These
+torrents remain dry over most of the winter and summer and grow enormous during
+rains. When it rains, the ravines are transformed into gushing torrents and it
+is difficult to ford them. Occasionally, if floods occur, these torrents
+transport massive quantities of sand, red silt, pebbles, and shingles. The
+channel of these tor­rents is characterised by clumps of reed growth known as
+khar (Your Article Library 2018).
+
+References
+
+Business Standard (2016): “MDWS Intensifies Efforts with States to Implement
+Swachh Bharat Mission,” 19 March, https://www.business-standard.com/article/
+government-press-release/
+mdws-intensifies-efforts-with-states-to-implement-swachh-bharat-mission-116031801084_1.html
+.
+
+Census (1981): “A Handbook of Population Statistics,” Office of the Registrar
+General and Census Commissioner, Ministry of Home Affairs, Government of India,
+https://censusindia.gov.in/DigitalLibrary/data/Census_1981/Publication/I....
+
+— (2011): “2011 Census Data,” Office of the Registrar General and Census
+Commissioner, Ministry of Home Affairs, Government of India, https://
+censusindia.gov.in/2011-common/censusdata2011.html.
+
+Coffey, Diane and Dean Spears (2018): “Open Defecation in Rural India, 2015–16
+Levels and Trends in NFHS-4,” Economic & Political Weekly, Vol 53, No 9, pp
+10–13.
+
+Coffey, Diane, Aashish Gupta, Payal Hathi, Nidhi Khurana, Dean Spears, Nikhil
+Srivastav and Sangita Vyas (2014): “Revealed Preference for Open Defecation:
+Evidence from a New Survey in Rural North India,” Economic & Political Weekly,
+Vol 49, No 38, pp 38–55.
+
+Daily Excelsior (2018a): “Several Ignored Aspects Belie J&K Govt’s Claim about
+Achieving 100% ODF Status,” 19 September, http://www.dailyexcelsior.com/
+several-ignored-aspects-belie-jk-govts-claim-achieving-100-odf-status/.
+
+— (2018b): “J&K as Open Defecation Free,” 19 September, http://
+www.dailyexcelsior.com/jk-open-defecation-free/.
+
+Dhaktode, Nitin (2014): “Freedom from Open Defecation: Role of the Community,”
+Economic & Political Weekly, Vol 49, No 20, pp 28–30.
+
+DNA (2018): “Jammu and Kashmir Declared Open Defecation Free,” 5 September,
+https://www.dnaindia.com/india/
+report-jammu-and-kashmir-declared-open-defecation-free-2663551.
+
+Doron, Assa and Robin Jeffrey (2014): “Open Defectaion in India,” Economic &
+Political Weekly, Vol 49, No 49, pp 72–78.
+
+Geruso, Michael and Dean Spears (2018): “Neighbourhood Sanitation and Infant
+Mortality,” American Economic Journal: Applied Economics, Vol 10, No 2, pp
+125–62.
+
+Hindu (2020): “Is Rural India 100% Open Defecation Free like Swacch Bharat Data
+Concludes?” 2 January, https://www.thehindu.com/data/
+data-mismatch-is-rural-india-100-open-defe....
+
+Joshi, Yugal (2018): “The Real Status of Rural Sanitation,” Economic &
+Political Weekly, Vol 53, No 28, pp 100–101.
+
+Ministry of Drinking Water and Sanitation (nd): Swacch Bharat Mission
+(Grameen), Government of India, http://sbm.gov.in/sbmdashboard/Default.aspx.
+
+National Institue of Hydrology (2010): “Hydrological Problems in the Kandi Belt
+of Jammu Region: A Research Report by the National Institute of Hydrology,”
+India Water Portal, http://www.indiawaterportal.org/articles/
+hydrological-problems-kandi-bel....
+
+Your Article Library (2018): “Physical Regions of Jammu and Kashmir (Explained
+with Map),” http://www.yourarticlelibrary.com/india-2/
+physical-regions-of-jammu-and-....
+
